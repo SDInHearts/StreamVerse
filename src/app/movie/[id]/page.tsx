@@ -16,22 +16,22 @@ export async function generateMetadata({ params }: any) {
     title: res.title ?? res.name,
     description: res.overview,
     keywords: [
-      `${res?.title! || res?.name! || "streamland"} movie`,
-      `${res?.title! || res?.name! || "streamland"} movie online`,
-      `${res?.title! || res?.name! || "streamland"} movie free`,
-      `${res?.title! || res?.name! || "streamland"} movie free online`,
+      `${res?.title! || res?.name! || "StreamVarse"} movie`,
+      `${res?.title! || res?.name! || "StreamVarse"} movie online`,
+      `${res?.title! || res?.name! || "StreamVarse"} movie free`,
+      `${res?.title! || res?.name! || "StreamVarse"} movie free online`,
       `${
-        res?.title! || res?.name! || "streamland"
+        res?.title! || res?.name! || "StreamVarse"
       } movie free online streaming`,
-      `${res?.title! || res?.name! || "streamland"} movie free online watch`,
+      `${res?.title! || res?.name! || "StreamVarse"} movie free online watch`,
       `${
-        res?.title! || res?.name! || "streamland"
+        res?.title! || res?.name! || "StreamVarse"
       } movie free online watch now`,
       `${
-        res?.title! || res?.name! || "streamland"
+        res?.title! || res?.name! || "StreamVarse"
       } movie free online watch now hd`,
       `${
-        res?.title! || res?.name! || "streamland"
+        res?.title! || res?.name! || "StreamVarse"
       } movie free online watch now hd 1080p`,
     ],
   };

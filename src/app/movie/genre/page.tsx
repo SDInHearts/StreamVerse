@@ -3,7 +3,7 @@ import { MovieGenreList, MoviesGrid } from "@/app/component";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "streamland | Movies Genre",
+  title: "StreamVarse | Movies Genre",
 };
 
 const page = () => {

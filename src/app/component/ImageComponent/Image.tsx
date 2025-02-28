@@ -1,5 +1,5 @@
 "use client";
-import failedImage from "@/assets/StreamlandFailedImage.png";
+import failedImage from "@/assets/StreamVarseFailedImage.png";
 import clsx from "clsx";
 import Image, { StaticImageData } from "next/image";
 import React, { useState } from "react";

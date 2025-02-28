@@ -149,7 +149,7 @@ const Login = () => {
             )}
           >
             <div className="my-3 text-4xl font-bold tracking-wider text-center">
-              <a href="/">streamland</a>
+              <a href="/">StreamVarse</a>
             </div>
             <p className="mt-6 font-normal text-center text-gray-300 md:mt-0">
               Watch movies and tv shows, save your favorite movie to watch later

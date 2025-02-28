@@ -16,9 +16,9 @@ const page = () => {
   //           <p className="font-medium text-neutral-300">Hello Everyone,</p>
   //           <p className="text-neutral-400 font-light text-sm pt-6">
   //             <span className="text-neutral-200">I am Dipu,</span> the creator
-  //             of streamland, which I launched just a few short months ago in
+  //             of StreamVarse, which I launched just a few short months ago in
   //             2023. Since then, it has been solely maintained by me. I still
-  //             have a lot of plans for streamland in the future, and I am
+  //             have a lot of plans for StreamVarse in the future, and I am
   //             constantly working on improving it.
   //           </p>
   //           <br />
@@ -33,7 +33,7 @@ const page = () => {
   //           <p className="text-neutral-400 font-light text-sm">
   //             If you like this project and want to support me, please consider
   //             <a
-  //               href="https://www.buymeacoffee.com/immdipu"
+  //               href="https://www.buymeacoffee.com/LustyCodes"
   //               target="_blank"
   //               rel="noopener noreferrer"
   //               className="text-blue-500 px-2 hover:underline"
@@ -51,7 +51,7 @@ const page = () => {
   //         <div className=" h-full grid place-content-center">
   //           <div>
   //             <a
-  //               href="https://www.buymeacoffee.com/immdipu"
+  //               href="https://www.buymeacoffee.com/LustyCodes"
   //               target="_blank"
   //               rel="noopener noreferrer"
   //               className="text-blue-500 px-2 hover:underline"

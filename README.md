@@ -1,11 +1,11 @@
-# Streamland Frontend
+# StreamVerse Frontend
 
-Streamland is a feature-rich movie streaming platform built with modern web technologies. This repository contains the frontend code for the Streamland project.
+StreamVerse is a feature-rich movie streaming platform built with modern web technologies. This repository contains the frontend code for the StreamVerse project.
 
-[![GitHub stars](https://img.shields.io/github/stars/immdipu/Streamland-frontend.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/immdpu/Streamland-frontend/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/immdipu/Streamland-frontend.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/immdipu/Streamland-frontend/network/)
-[![GitHub issues](https://img.shields.io/github/issues/immdipu/Streamland-frontend.svg)](https://GitHub.com/immdipu/Streamland-frontend/issues/)
-[![GitHub license](https://img.shields.io/github/license/immdipu/Streamland-frontend.svg)](https://github.com/immdipu/Streamland-frontend/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/LustyCodes/StreamVerse.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/immdpu/StreamVerse/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/LustyCodes/StreamVerse.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/LustyCodes/StreamVerse/network/)
+[![GitHub issues](https://img.shields.io/github/issues/LustyCodes/StreamVerse.svg)](https://GitHub.com/LustyCodes/StreamVerse/issues/)
+[![GitHub license](https://img.shields.io/github/license/LustyCodes/StreamVerse.svg)](https://github.com/LustyCodes/StreamVerse/blob/master/LICENSE)
 
 ## ⚠️ Disclaimer
 
@@ -30,8 +30,8 @@ This project is created for educational and practice purposes only. We do not st
 
 ## 🛠 Installation
 
-1. Clone the repository: `git clone https://github.com/immdipu/streamland-frontend.git
-2. Change directory: `cd streamland-frontend`
+1. Clone the repository: `git clone https://github.com/LustyCodes/StreamVerse.git
+2. Change directory: `cd StreamVerse`
 3. Install dependencies: `npm install`
 4. Create a `.env.local` file in the root directory and add the following environment variables:
 
@@ -50,11 +50,11 @@ NEXT_PUBLIC_USER_URL="http://localhost:8080 or your deployed backend URL"
 
 ## 🤝 Contributing
 
-We welcome contributions to Streamland! Feel free to open issues and pull requests.
+We welcome contributions to StreamVerse! Feel free to open issues and pull requests.
 
 ## 🔗 Related Repositories
 
-- [Streamland Backend](https://github.com/immdipu/streamland-backend) - The backend API for Streamland
+- [StreamVerse Backend](https://github.com/LustyCodes/StreamVerse-backend) - The backend API for StreamVerse
 
 ## 📜 License
 
@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐️ If you find Streamland interesting or useful, please consider giving it a star! It helps us know that our work is valued and encourages us to continue improving the project.
+⭐️ If you find StreamVerse interesting or useful, please consider giving it a star! It helps us know that our work is valued and encourages us to continue improving the project.

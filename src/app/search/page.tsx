@@ -3,7 +3,7 @@ import Search from "../component/search/Search";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "streamland | Search",
+  title: "StreamVarse | Search",
 };
 
 const page = () => {
